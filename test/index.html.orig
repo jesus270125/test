@@ -7,8 +7,11 @@
 </head>
 <body>
     Hola p4marge lo maximo <br>
-    add commit
+<<<<<<< HEAD
     desde mi ordenador
+=======
+    add commit
+>>>>>>> e447e42e59178fda86f1d87e2244cf835ca2f397
     linea 9 pr ahora
 </body>
 </html>

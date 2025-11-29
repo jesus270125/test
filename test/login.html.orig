@@ -1,0 +1,10 @@
+<form action="">
+    <imput type="code">
+    <imput type="name">
+<<<<<<< HEAD
+    <imput type="age">
+</form>
+=======
+    <imput type="details">
+</form>
+>>>>>>> e447e42e59178fda86f1d87e2244cf835ca2f397
